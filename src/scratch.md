@@ -17,3 +17,5 @@ https://www.educative.io/courses/grokking-the-coding-interview/qA5wW7R8ox7
 
 Next Letter
 https://www.educative.io/courses/grokking-the-coding-interview/g2w6QPBA2Nk
+
+Jan 21, 2020
